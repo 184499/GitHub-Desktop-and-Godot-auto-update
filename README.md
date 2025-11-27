@@ -1,6 +1,7 @@
-# GitHub-Desktop-and-Godot-auto-update
-*Work in progress*
+# GitHub Desktop and Godot auto update
+### *Work in progress*
 Script that automatically commits, pushes and pulls changes on GitHub desktop from Godot. Check README for more information and setup. This has only been tested and proven on windows. Use on any other OS at your descretion.
+**WARNING: If it stops automatically commiting check task scheduler and it's last run time. If it's outside the time window it may have crashed. Crashing may result in losing your repository.**
 1. Download the latest version of GIT
 2. Download the script
 3. Extract and put the script folder into a safe place
